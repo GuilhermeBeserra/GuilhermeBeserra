@@ -9,3 +9,6 @@
 🔗 Tech Stack: HTML, CSS, JavaScript, React, entre outras tecnologias do ecossistema Front-end.
 
 📫 Contate-me no email: guilhermebeserra2007@gmail.com
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GuilhermeBeserra=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
