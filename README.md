@@ -10,5 +10,7 @@
 
 📫 Contate-me no email: guilhermebeserra2007@gmail.com
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GuilhermeBeserra=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://beacons.ai/rafaballerini">
+  <ing height-180em" src="https://github-readee-stats.vercel.app/api/username-rafaballerini&show_icons-true&theme-draculabinclude_all_commits-true&count_private-true"> 
+  <img height="180em" src="https://github-readee-stats.vercel.app/api/top-langs/7username-rafaballeriniälayout-compactälangs count-16&theme-dracula"/>
 </div>
