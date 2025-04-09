@@ -2,7 +2,7 @@
 
 💻 Eu sou um Desenvolvedor Front-end | Estudante de ADS
 
-🚀 Apaixonado por tecnologia e desenvolvimento de software, atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) na faculdade. Já sou técnico na área e foco principalmente em desenvolvimento Front-end, criando interfaces modernas e responsivas.
+🚀 Apaixonado por tecnologia e desenvolvimento de software, atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na faculdade. Sou técnico na área e atuo como desenvolvedor full stack, criando soluções completas com interfaces modernas, responsivas e integrações eficientes no back-end.
 
 📌 Sempre buscando aprender e evoluir, explorando novas tecnologias e boas práticas para escrever um código limpo e eficiente.
 
