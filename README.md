@@ -1,12 +1,12 @@
 ## 🚀 "E aí! 😃 Me chamo Guilherme
 
-💻 Eu sou um Desenvolvedor Front-end | Estudante de ADS
+💻 Eu sou um Desenvolvedor Full Stack| Estudante de ADS
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software, atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na faculdade. Sou técnico na área e atuo como desenvolvedor full stack, criando soluções completas com interfaces modernas, responsivas e integrações eficientes no back-end.
 
 📌 Sempre buscando aprender e evoluir, explorando novas tecnologias e boas práticas para escrever um código limpo e eficiente.
 
-🔗 Tech Stack: HTML, CSS, JavaScript, React, entre outras tecnologias do ecossistema Front-end.
+🔗 Tech Stack: HTML, CSS, JavaScript, Python, React, Node.js, MySQL, entre outras tecnologias do ecossistema Full Stack.
 
 📫 Contate-me no email: guilhermebeserra2007@gmail.com
 
