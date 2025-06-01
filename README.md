@@ -1,6 +1,6 @@
 ## 🚀 "E aí! 😃 Me chamo Guilherme
 
-💻 Eu sou um Desenvolvedor Full Stack| Estudante de ADS
+💻 Eu sou um Desenvolvedor Full Stack | Estudante de ADS
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software, atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na faculdade. Sou técnico na área e atuo como desenvolvedor full stack, criando soluções completas com interfaces modernas, responsivas e integrações eficientes no back-end.
 
