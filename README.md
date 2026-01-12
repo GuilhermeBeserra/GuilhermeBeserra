@@ -24,7 +24,7 @@ Sou uma pessoa dedicada, com interesse constante em aprendizado, evolução téc
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
 
-<br/><br/>
+<br/>
 
 **Back-end**  
 <br/>
@@ -36,7 +36,7 @@ Sou uma pessoa dedicada, com interesse constante em aprendizado, evolução téc
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
 
-<br/><br/>
+<br/>
 
 **Ferramentas**  
 <br/>
