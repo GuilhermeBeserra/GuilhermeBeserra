@@ -1,65 +1,88 @@
-## 🚀 "E aí! 😃 Me chamo Guilherme
+## 👨‍💻 Guilherme Cavalcante
+**Estudante de Análise e Desenvolvimento de Sistemas**
 
-💻 Eu sou um Desenvolvedor Full Stack | Estudante de ADS
+### 👋 Sobre mim
+Me chamo Guilherme e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º semestre. Sou técnico na área e estou em busca da minha primeira oportunidade de estágio em Tecnologia da Informação.
 
-🚀 Apaixonado por tecnologia e desenvolvimento de software, atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na faculdade. Sou técnico na área e atuo como desenvolvedor full stack, criando soluções completas com interfaces modernas, responsivas e integrações eficientes no back-end.
+Tenho conhecimentos em desenvolvimento web, adquiridos por meio da faculdade, cursos e projetos pessoais, utilizando tecnologias como HTML, CSS, JavaScript, PHP, MySQL e Python.
 
-📌 Sempre buscando aprender e evoluir, explorando novas tecnologias e boas práticas para escrever um código limpo e eficiente.
+Sou uma pessoa dedicada, com interesse constante em aprendizado, evolução técnica e crescimento profissional na área de TI.
 
-🔗 Tech Stack: HTML, CSS, JavaScript, Python, React, Node.js, MySQL, entre outras tecnologias do ecossistema Full Stack.
+---
 
-📫 Contate-me no email: guilhermebeserra2007@gmail.com
-
-
-
-<br clear="both">
+### 🧠 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBeserra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBeserra&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="175" alt="languages graph"  />
+
+**Front-end**  
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+
+<br/><br/>
+
+**Back-end**  
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
+
+<br/><br/>
+
+**Ferramentas**  
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
+### 📊 Estatísticas
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=GuilhermeBeserra&theme=dark"
+    height="220"
+    alt="GitHub streak"
+  />
+</div>
+
+---
+
+### 📫 Contato
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCsfE2DZ8wBbET2EK-62h_xg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="40"/>
   </a>
-  <a href="guilhermebeserra2007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="mailto:guilhermebeserra2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/guilherme-cavalcante-4398a9289/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40"/>
   </a>
-  <a href="https://www.instagram.com/guilherme_.beserra?igsh=MXQ3MDNleDRiajY1Ng==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/guilherme_.beserra" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40"/>
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
+  <img height="180" src="https://media.tenor.com/qZTaKj4UL00AAAAi/okay.gif"/>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/qZTaKj4UL00AAAAi/okay.gif"  />
-</div>
-
-###
